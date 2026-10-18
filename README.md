@@ -33,10 +33,10 @@
 
 ### Toolbox
 
-**AI / ML:** LLM APIs (Claude, Gemini) · RAG · tool calling / agents · embeddings · scikit-learn · pandas · NumPy
-**Web:** TypeScript · React · Next.js · Node.js · Express · Python · FastAPI · WebSockets · REST design
-**Mobile:** Flutter · Dart
-**Data & Ops:** PostgreSQL · SQLite · Drizzle ORM · Docker · GitHub Actions · Vitest · pytest
+- **AI / ML:** LLM APIs (Claude, Gemini) · RAG · tool calling / agents · embeddings · scikit-learn · pandas · NumPy
+- **Web:** TypeScript · React · Next.js · Node.js · Express · Python · FastAPI · WebSockets · REST design
+- **Mobile:** Flutter · Dart
+- **Data & Ops:** PostgreSQL · SQLite · Drizzle ORM · Docker · GitHub Actions · Vitest · pytest
 
 ### How I work
 
